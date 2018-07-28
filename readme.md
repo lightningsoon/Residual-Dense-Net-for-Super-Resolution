@@ -1,5 +1,5 @@
 # 介绍
-这是这篇cvpr18的文章[《Residual Dense Network for Image Super-Resolution》](https://arxiv.org/abs/1802.08797)的keras+tensorflow实现。
+这是这篇cvpr18的文章[《Residual Dense Network for Image Super-Resolution》](https://arxiv.org/abs/1802.08797)的非官方keras+tensorflow实现。
 # 结果
 Set5数据集的结果
 ![metric](metric.png)
@@ -12,7 +12,7 @@ Set5数据集的结果
 ***
 
 # introduction
-this is the implementation of this cvpr18 article[《Residual Dense Network for Image Super-Resolution》](https://arxiv.org/abs/1802.08797) with keras as well as tensorflow.
+this is the unofficial implementation of this cvpr18 article[《Residual Dense Network for Image Super-Resolution》](https://arxiv.org/abs/1802.08797) with keras as well as tensorflow.
 
 # result
 the result in Set5 dataset
