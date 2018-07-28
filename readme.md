@@ -4,6 +4,6 @@
 Set5数据集的结果
 
 # 使用
-打开inference.py，里面有xdir改一下，数据集去这里[下载]()。
+打开inference.py，里面有xdir改一下，数据集去这里[下载](https://github.com/yulunzhang/RDN)。
 # 测试
-想测试PSNR指标，用Matlab更准确，仍然这里[下载]()。
+想测试PSNR指标，用Matlab更准确，仍然这里[下载](https://github.com/yulunzhang/RDN)。
